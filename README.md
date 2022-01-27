@@ -8,20 +8,20 @@
 
 ## How to Use 
 
-#### Import 
+#### - Import 
 `from Anon import AnonFile`
 
-#### Declaring API into a Var
+#### - Declaring API into a Var
 `p=AnonFile()`
 
-#### Send/Upload 
+#### - Send/Upload 
 `p.Send('filename')`
 
-#### Get Send Response
+#### - Get Send Response
 `p.SendResp`
 
-#### Sending Info Request
+#### - Sending Info Request
 `p.InfoID('id') #must be in string`
 
-#### Response of Info Request
+#### - Response of Info Request
 `p.InfoResp`
