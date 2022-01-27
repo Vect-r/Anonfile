@@ -15,13 +15,13 @@
 `p=AnonFile()`
 
 #### Send/Upload 
-`p.Send('filename')`
+`p.Send('filename') #returns response in JSON`
 
 #### Get Send Response
 `p.SendResp`
 
 #### Sending Info Request
-`p.InfoID('id') #must be in string`
+`p.InfoID('id') #must be in string and returns response in JSON`
 
 #### Response of Info Request
 `p.InfoResp`
