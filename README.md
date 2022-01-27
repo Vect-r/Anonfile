@@ -8,7 +8,7 @@
 
 ## How to Use 
 
-#### - Import 
+#### Import 
 `from Anon import AnonFile`
 
 #### - Declaring API into a Var
