@@ -21,7 +21,7 @@
 `p.SendResp`
 
 #### Sending Info Request
-p.InfoID('id') #must be in string
+`p.InfoID('id') #must be in string`
 
 #### Response of Info Request
-p.InfoResp
+`p.InfoResp`
