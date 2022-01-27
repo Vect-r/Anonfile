@@ -1,13 +1,12 @@
 # AnonFile
----
-##Description 
+## Description 
 #### Anonfile Python is an API Built on Python3 for Uploading file on the site Anonfile.com and getting info about the file id currently exists or not.
 #### 
 
-##Status 
+## Status 
 #### Currently this API is still in BETA Version
 
-##How to Use 
+## How to Use 
 
 #### Import 
 `from Anon import AnonFile`
